@@ -1,4 +1,8 @@
+#Free Security eBooks
+
 A curated list of free Security and Pentesting related E-Books available on the Internet.
+
+If you want to contribute to this list (please do), send me a pull request or contact me [@bnchandrapal](https://twitter.com/bnchandrapal). All contributors will be recognized and appreciated.
 
 The topics include:
 
@@ -15,6 +19,7 @@ The topics include:
 - [Wireless Network Pentesting](#wireless-network-pentesting)
 - [Misc](#misc)
 
+
 ----------
 
 ### Android & iOS
@@ -25,10 +30,12 @@ The topics include:
 - **iOS**
   - [Learning iOS Security](http://it-ebooks.info/book/4873/)
 
+
 ----------
 
 ### Cloud Security
 - [Resource Optimization and Security for Cloud Services](http://it-ebooks.info/book/6971/)
+
 
 ----------
 
@@ -43,10 +50,12 @@ The topics include:
 - [Practical Intrusion Analysis](http://it-ebooks.info/book/2303/)
 - [Security for Web Developers](http://it-ebooks.info/book/6453/)
 
+
 ----------
 
-# IoT
+### IoT
 - [Abusing the Internet of Things](http://it-ebooks.info/book/6419/)
+
 
 ----------
 
@@ -59,6 +68,7 @@ The topics include:
 - [Hacking Exposed Computer Forensics, 2nd Edition](http://it-ebooks.info/book/1097/)
 - [Learning iOS Forensics](http://it-ebooks.info/book/5771/)
 
+
 ----------
 
 ### Network Pentesting
@@ -68,6 +78,7 @@ The topics include:
 - [Nmap Essentials](http://it-ebooks.info/book/6170/)
 - [Wireshark Essentials](http://it-ebooks.info/book/6316/)
 - [Wireshark Starter](http://it-ebooks.info/book/1783/)
+
 
 ----------
 
@@ -96,6 +107,7 @@ The topics include:
   - [Web Penetration Testing with Kali Linux](http://it-ebooks.info/book/3000/)
   - [Web Penetration Testing with Kali Linux, 2nd Edition](http://it-ebooks.info/book/6565/)
 
+
 ----------
 
 ### Programming Languages
@@ -111,10 +123,12 @@ The topics include:
   - [Web Scraping with Python](http://it-ebooks.info/book/6676/)
   - [Web Scraping with Python - Collecting Data from the Modern Web](http://it-ebooks.info/book/6035/)
 
+
 ----------
 
 ### Reverse Engineering
 - [Practical Reverse Engineering](http://it-ebooks.info/book/3766/)
+
 
 ----------
 
@@ -128,6 +142,7 @@ The topics include:
 - [The InfoSec Handbook](http://it-ebooks.info/book/4271/)
 - [The Practice of Network Security Monitoring](http://it-ebooks.info/book/4447/)
 
+
 ----------
 
 ### Wireless Network Pentesting
@@ -136,6 +151,7 @@ The topics include:
 - [Kali Linux Wireless Penetration Testing](http://it-ebooks.info/book/5786/)
 - [Mastering Kali Linux Wireless Pentesting](http://it-ebooks.info/book/1461060711/)
 - [Mastering Wireless Penetration Testing for Highly Secured Environments](http://it-ebooks.info/book/4916/)
+
 
 ----------
 

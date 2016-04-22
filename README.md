@@ -1,4 +1,5 @@
 #Free Security eBooks
+[![Build Status](https://travis-ci.org/Hack-with-Github/Free-Security-eBooks.svg?branch=master)](https://travis-ci.org/Hack-with-Github/Free-Security-eBooks)
 
 A curated list of free Security and Pentesting related E-Books available on the Internet.
 

@@ -123,6 +123,7 @@ The topics include:
   - [Pro PHP Security, 2nd Edition](http://it-ebooks.info/book/2055/)
 - **Python**
   - [Black Hat Python](http://it-ebooks.info/book/4714/)
+  - [Violent Python : A Cookbook for Hackers (2013)](https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf)
   - [Web Scraping with Python](http://it-ebooks.info/book/6676/)
   - [Web Scraping with Python - Collecting Data from the Modern Web](http://it-ebooks.info/book/6035/)
 

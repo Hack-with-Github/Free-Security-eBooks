@@ -107,6 +107,7 @@ The topics include:
 - **Web & WebApp**
   - [Hacking Exposed Web 2.0](http://it-ebooks.info/book/1094/)
   - [Hacking Exposed Web Applications, 3rd Edition](http://it-ebooks.info/book/1100/)
+  - [The Web Application Hacker's Handbook](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
   - [Web Penetration Testing with Kali Linux](http://it-ebooks.info/book/3000/)
   - [Web Penetration Testing with Kali Linux, 2nd Edition](http://it-ebooks.info/book/6565/)
 

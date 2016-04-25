@@ -104,6 +104,7 @@ The topics include:
      - [Hacking Exposed Linux, 3rd Edition](http://it-ebooks.info/book/1095/)
   - **Windows**
      - [Hacking Exposed Windows, 3rd Edition](http://it-ebooks.info/book/1093/)
+     - [Modern Windows Exploit Development](https://userscloud.com/9ifscj08wllu)
 - **Web & WebApp**
   - [Hacking Exposed Web 2.0](http://it-ebooks.info/book/1094/)
   - [Hacking Exposed Web Applications, 3rd Edition](http://it-ebooks.info/book/1100/)

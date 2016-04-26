@@ -120,6 +120,8 @@ The topics include:
   - [Penetration Testing with the Bash shell](http://it-ebooks.info/book/3568/)
 - **Java**
   - [Instant Web Scraping with Java](http://it-ebooks.info/book/5738/)
+- **Node.js**
+  - [Secure Your Node.js Web Application](http://it-ebooks.info/book/1461595103/)
 - **PHP**
   - [PHP Web Scraping](http://it-ebooks.info/book/4297/)
   - [Pro PHP Security, 2nd Edition](http://it-ebooks.info/book/2055/)

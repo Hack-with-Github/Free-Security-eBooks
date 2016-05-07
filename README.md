@@ -129,7 +129,6 @@ The topics include:
   - [Hacking Website Database and owning systems](http://www.blackhat.com/presentations/bh-europe-07/Cerrudo/Whitepaper/bh-eu-07-cerrudo-WP-up.pdf)
   - [Internet Advanced Denial of Service (DDOS) Attack](http://www.mediafire.com/download/b4jmyl022rh48c0/Internet+Advanced+Denial+of+Service+%28DDOS%29+Attack.zip)
   - [Internet Security Technology and Hacking](http://www.mediafire.com/download/7tk860o8n777iqa/Internet+Security+Technology+and+Hacking.zip)
-  - [SQL Injection attacks and tutorials by Exploit-DB](https://www.exploit-db.com/docs/17397.pdf)
   - [The Web Application Hacker's Handbook](https://leaksource.files.wordpress.com/2014/08/the-web-application-hackers-handbook.pdf)
   - [Vulnerability Exploit & website Hacking for Dummies](http://www.mediafire.com/download/j8cvosmvcb4vpw9/Vulnerability+Exploitation+%26+website+Hacking+for+Dummies.rar)
   - [Web App Hacking (Hackers Handbook)](http://www.mediafire.com/download/c7b18vtpc77sysi/Web+App+Hacking+%28Hackers+Handbook%29.zip)

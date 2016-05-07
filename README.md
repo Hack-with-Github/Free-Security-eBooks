@@ -141,7 +141,6 @@ The topics include:
 ----------
 
 ### Programming Languages
-- [**Free Programming Books**](https://github.com/vhf/free-programming-books)
 - **Bash**
   - [Penetration Testing with the Bash shell](http://it-ebooks.info/book/3568/)
 - **Java**

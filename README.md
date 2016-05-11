@@ -49,6 +49,7 @@ The topics include:
 - [Cyber Security](http://it-ebooks.info/book/6360/)
 - [Cyber Security Policy Guidebook](http://it-ebooks.info/book/2375/)
 - [Essential Cybersecurity Science](http://it-ebooks.info/book/6557/)
+- [Identity and Data Security for Web Development : Best Practices](http://it-ebooks.info/book/1462886769/)
 - [Identity, Authentication, and Access Management in OpenStack](http://it-ebooks.info/book/6554/)
 - [OWASP Hacking Tutorials and Web App Protection](https://www.owasp.org/images/d/d0/Web_Services_Hacking_and_Hardening.pdf)
 - [Pattern and Security Requirements](http://it-ebooks.info/book/6359/)

@@ -116,6 +116,7 @@ The topics include:
   - [Metasploit Penetration Testing Cookbook](http://it-ebooks.info/book/4299/)
 - **Operating Systems**
   - **Linux**
+     - [Designing BSD Rootkits](http://it-ebooks.info/book/1463046356/)
      - [Hacking Exposed Linux, 3rd Edition](http://it-ebooks.info/book/1095/)
   - **Windows**
      - [Hacking Exposed Windows, 3rd Edition](http://it-ebooks.info/book/1093/)
@@ -155,6 +156,8 @@ The topics include:
   - [Violent Python : A Cookbook for Hackers (2013)](https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf)
   - [Web Scraping with Python](http://it-ebooks.info/book/6676/)
   - [Web Scraping with Python - Collecting Data from the Modern Web](http://it-ebooks.info/book/6035/)
+- **SQL**
+  - [Dynamic SQL: Applications, Performance, and Security](http://it-ebooks.info/book/1463047545/)
 
 
 ----------

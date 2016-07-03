@@ -45,6 +45,7 @@ The topics include:
 
 ### Defensive Security
 - [Cyber Operations - Building, Defending, and Attacking Modern Computer Networks](http://it-ebooks.info/book/6441/)
+- [Cyber-Physical Attack Recovery Procedures](http://it-ebooks.info/book/1466085423/)
 - [Cyber Threat!](http://it-ebooks.info/book/3636/)
 - [Cyber Security](http://it-ebooks.info/book/6360/)
 - [Cyber Security Policy Guidebook](http://it-ebooks.info/book/2375/)

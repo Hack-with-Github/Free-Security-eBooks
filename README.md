@@ -56,7 +56,7 @@ The topics include:
 - [Pattern and Security Requirements](http://it-ebooks.info/book/6359/)
 - [Practical Intrusion Analysis](http://it-ebooks.info/book/2303/)
 - [Security for Web Developers](http://it-ebooks.info/book/6453/)
-
+- [Threat Modeling - Designing for Security](https://news.asis.io/sites/default/files/Threat%20Modeling.pdf)
 
 ----------
 

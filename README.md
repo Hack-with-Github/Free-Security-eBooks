@@ -80,7 +80,6 @@ The topics include:
 
 ### Network Pentesting
 - [Network Attacks and Exploitation](http://it-ebooks.info/book/6972/)
-- [Networking All-in-One For Dummies, 6th Edition](http://it-ebooks.info/book/6922/)
 - [Nmap Essentials](http://it-ebooks.info/book/6170/)
 - [The Book of PF, 2nd Edition](http://it-ebooks.info/book/1719/)
 - [Wireshark Essentials](http://it-ebooks.info/book/6316/)
@@ -213,6 +212,7 @@ The topics include:
 - [Getting an Information Security Job For Dummies](http://it-ebooks.info/book/5756/)
 - [Hacking Point of Sale](http://it-ebooks.info/book/3764/)
 - [Hyper-V Security](http://it-ebooks.info/book/4847/)
+- [Networking All-in-One For Dummies, 6th Edition](http://it-ebooks.info/book/6922/)
 - [Protecting Yourself Online For Dummies](http://it-ebooks.info/book/5755/)
 - [Secrets of Super and Professional Hackers](http://www.mediafire.com/download/2sspb36u5gymd23/Secrets+of+Super+and+Professional+Hackers.zip)
 - [Security Intelligence](http://it-ebooks.info/book/5685/)

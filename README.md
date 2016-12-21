@@ -50,6 +50,8 @@ The topics include:
 - [Cyber Security](http://it-ebooks.info/book/6360/)
 - [Cyber Security Policy Guidebook](http://it-ebooks.info/book/2375/)
 - [Essential Cybersecurity Science](http://it-ebooks.info/book/6557/)
+- [Holistic Info-Sec for Web Developers (Fascicle 0)](https://leanpub.com/holistic-infosec-for-web-developers)
+- [Holistic Info-Sec for Web Developers (Fascicle 1)](https://leanpub.com/holistic-infosec-for-web-developers-fascicle1-vps-network-cloud-webapplications)
 - [Identity and Data Security for Web Development : Best Practices](http://it-ebooks.info/book/1462886769/)
 - [Identity, Authentication, and Access Management in OpenStack](http://it-ebooks.info/book/6554/)
 - [OWASP Hacking Tutorials and Web App Protection](https://www.owasp.org/images/d/d0/Web_Services_Hacking_and_Hardening.pdf)

@@ -5,6 +5,8 @@ A curated list of free Security and Pentesting related E-Books available on the 
 
 If you want to contribute to this list (please do), send a pull request. All contributors will be recognized and appreciated.
 
+### Currently this repository is not maintained, but will be active in the future. Please consider having a look at our other repository [Free Security eBooks from PacktPub](https://github.com/Hack-with-Github/Free-Security-eBooks-from-PacktPub).
+
 #### Disclaimer: The contributor(s) cannot be held responsible for any misuse of the data. This repository is just a collection of URLs to download eBooks for free. Download the eBooks at your own risks.
 
 The topics include:

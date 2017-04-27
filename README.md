@@ -110,7 +110,6 @@ The topics include:
   - [Blind SQL Injection Discovery & Exploitation](http://blueinfy.com/wp/blindsql.pdf)
   - [CEH – Hacking Database Secrets and Exploit](http://repo.hackerzvoice.net/depot_cehv6/)
   - [Ethical Hacking Complete E-book for Beginners](http://pdf.textfiles.com/security/palmer.pdf)
-  - [Gray Hat Hacking, 3rd Edition](http://it-ebooks.info/book/1917/)
   - [Hackers High School 13 Complete Hacking Ebooks](http://www.mediafire.com/download/u2akquvibe6ia13/Hackers+High+School+13+Complete+Hacking+E-books.rar)
   - [Hacking : The Art of Exploitation, 2nd Edition](http://it-ebooks.info/book/2624/)
   - [Hacking attacks and Examples Test](http://www.mediafire.com/download/dpysbzboord42lo/Hacking+attacks+and+Examples+Test.zip)

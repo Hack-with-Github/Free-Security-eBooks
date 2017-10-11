@@ -38,6 +38,8 @@ The topics include:
 - **Backtrack**
   - [Backtrack: Advance Hacking tutorials](http://www.binary-zone.com/course/BZ-Backtrack.usage.pdf)
   - [Hack your Friend using Backtrack](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
+- **Kali Linux**
+  - [Kali Linux Revealed Book](https://kali.training/)
 - **Hacking**
   - [Advanced SQL Injection Hacking and Guide](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-joseph_mccray-adv_sql_injection.pdf)
   - [A Beginners Guide To Hacking Computer Systems](http://www.mediafire.com/download/dyewn6f3r3olnuw/A+Beginners+Guide+To+Hacking+Computer+Systems.zip)

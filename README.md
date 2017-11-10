@@ -43,6 +43,7 @@ The topics include:
   - [Hack your Friend using Backtrack](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
 - **Kali Linux**
   - [Kali Linux Revealed Book](https://kali.training/)
+  - [Windows Pentesting with Kali Linux v2](https://github.com/cyberh3x/books/blob/master/9781782168492-KALI_LINUX_2_WINDOWS_PENETRATION_TESTING.pdf)
 - **Hacking**
   - [Advanced SQL Injection Hacking and Guide](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-joseph_mccray-adv_sql_injection.pdf)
   - [A Beginners Guide To Hacking Computer Systems](http://www.mediafire.com/download/dyewn6f3r3olnuw/A+Beginners+Guide+To+Hacking+Computer+Systems.zip)

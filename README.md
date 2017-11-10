@@ -40,7 +40,6 @@ The topics include:
 ### Offensive Security
 
 - **Backtrack**
-  - [Backtrack: Advance Hacking tutorials](http://www.binary-zone.com/course/BZ-Backtrack.usage.pdf)
   - [Hack your Friend using Backtrack](http://hackerspace.cs.rutgers.edu/library/bt5tutorials/HackYourFriend.pdf)
 - **Kali Linux**
   - [Kali Linux Revealed Book](https://kali.training/)
@@ -48,13 +47,12 @@ The topics include:
   - [Advanced SQL Injection Hacking and Guide](https://defcon.org/images/defcon-17/dc-17-presentations/defcon-17-joseph_mccray-adv_sql_injection.pdf)
   - [A Beginners Guide To Hacking Computer Systems](http://www.mediafire.com/download/dyewn6f3r3olnuw/A+Beginners+Guide+To+Hacking+Computer+Systems.zip)
   - [Blind SQL Injection Discovery & Exploitation](http://blueinfy.com/wp/blindsql.pdf)
-  - [CEH – Hacking Database Secrets and Exploit](http://repo.hackerzvoice.net/depot_cehv6/)
+  - [CEH – Hacking Database Secrets and Exploit](http://repo.thehackademy.net/depot_cehv6/)
   - [Ethical Hacking Complete E-book for Beginners](http://pdf.textfiles.com/security/palmer.pdf)
   - [Hackers High School 13 Complete Hacking Ebooks](http://www.mediafire.com/download/u2akquvibe6ia13/Hackers+High+School+13+Complete+Hacking+E-books.rar)
   - [Hacking attacks and Examples Test](http://www.mediafire.com/download/dpysbzboord42lo/Hacking+attacks+and+Examples+Test.zip)
   - [Hacking into Computer Systems](http://www.academia.edu/1153769/Hacking_into_computer_systems_-_a_beginners_guide)
   - [Hackers' Secrets](http://www.onlinepot.org/security/HackersSecrets.pdf)
-  - [The Hackers Underground Handbook](https://decryptedmatrix.com/wp-content/uploads/2012/06/The-Hackers-Underground-Handbook.pdf)
 - **Operating Systems**
   - **Windows**
      - [Modern Windows Exploit Development](https://userscloud.com/9ifscj08wllu)
@@ -92,7 +90,7 @@ The topics include:
 ----------
 
 ### Misc
-- [Computer Hacking - Cyber Laws Harvard](http://cyber.law.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
-- [Ethical Hacking Value and Penetration testing](http://www.certconf.org/presentations/2003/Wed/WM4.pdf)
+- [Computer Hacking - Cyber Laws Harvard](https://cyber.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
+- [Ethical Hacking Value and Penetration testing](https://www.certconf.org/presentations/2003/Wed/WM4.pdf)
 - [Secrets of Super and Professional Hackers](http://www.mediafire.com/download/2sspb36u5gymd23/Secrets+of+Super+and+Professional+Hackers.zip)
 - [Ultimate Guide to Social Enginnering attacks](http://uwcisa.uwaterloo.ca/Biblio2/Topic/ACC626%20Social%20Engineering%20A%20Cheung.pdf)

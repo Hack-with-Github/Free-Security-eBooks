@@ -32,6 +32,7 @@ The topics include:
 - [Mastering Wireshark](https://github.com/cyberh3x/books/blob/master/9781783989522-MASTERING_WIRESHARK.pdf)
 
 ### Defensive Security
+- [Holistic Info-Sec for Web Developers](https://www.holisticinfosecforwebdevelopers.com/)
 - [OWASP Hacking Tutorials and Web App Protection](https://www.owasp.org/images/d/d0/Web_Services_Hacking_and_Hardening.pdf)
 - [Threat Modeling - Designing for Security](https://news.asis.io/sites/default/files/Threat%20Modeling.pdf)
 

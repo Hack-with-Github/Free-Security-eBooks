@@ -96,4 +96,3 @@ The topics include:
 - [Computer Hacking - Cyber Laws Harvard](https://cyber.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
 - [Ethical Hacking Value and Penetration testing](https://www.certconf.org/presentations/2003/Wed/WM4.pdf)
 - [Secrets of Super and Professional Hackers](http://www.mediafire.com/download/2sspb36u5gymd23/Secrets+of+Super+and+Professional+Hackers.zip)
-- [Ultimate Guide to Social Enginnering attacks](http://uwcisa.uwaterloo.ca/Biblio2/Topic/ACC626%20Social%20Engineering%20A%20Cheung.pdf)

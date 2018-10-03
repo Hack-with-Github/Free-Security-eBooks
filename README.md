@@ -77,7 +77,8 @@ The topics include:
 ### Programming Languages
 - **Python**
   - [Violent Python : A Cookbook for Hackers (2013)](https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf)
-
+- **Go**
+  - [An Introduction to Programming in Go] (https://www.golang-book.com/public/pdf/gobook.0.pdf)
 ----------
 
 ### Reverse Engineering

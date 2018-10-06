@@ -22,7 +22,7 @@ The topics include:
 - [Reverse Engineering](#reverse-engineering)
 - [SysAdmin](#sysadmin)
 - [Virus Botnet and Malware](#virus-botnet-and-malware)
-- [Wireless Network Pentesting](#wireless-network-pentesting)
+- [less Network Pentesting](#wireless-network-pentesting)
 - [Misc](#misc)
 
 ----------
@@ -30,6 +30,7 @@ The topics include:
 ### Network Pentesting
 - [Wireshark Essentilals](https://github.com/cyberh3x/books/blob/master/9781783554638-WIRESHARK_ESSENTIALS.pdf)
 - [Mastering Wireshark](https://github.com/cyberh3x/books/blob/master/9781783989522-MASTERING_WIRESHARK.pdf)
+- [Network Hacking and Shadows Hacking Attacks](http://www.mediafire.com/download/utp50jqd25ngw3q/Network_Hacking_and_Shadows_Hacking_Attacks.zip)
 
 ### Defensive Security
 - [Holistic Info-Sec for Web Developers - Fascicle 0](https://f0.holisticinfosecforwebdevelopers.com/)

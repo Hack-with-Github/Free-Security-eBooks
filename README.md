@@ -97,3 +97,4 @@ The topics include:
 - [Ethical Hacking Value and Penetration testing](https://www.certconf.org/presentations/2003/Wed/WM4.pdf)
 - [Secrets of Super and Professional Hackers](http://www.mediafire.com/download/2sspb36u5gymd23/Secrets+of+Super+and+Professional+Hackers.zip)
 - [Ultimate Guide to Social Enginnering attacks](http://uwcisa.uwaterloo.ca/Biblio2/Topic/ACC626%20Social%20Engineering%20A%20Cheung.pdf)
+- [Network Hacking and Shadows Hacking Attacks](http://www.mediafire.com/download/utp50jqd25ngw3q/Network_Hacking_and_Shadows_Hacking_Attacks.zip)

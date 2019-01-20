@@ -96,3 +96,4 @@ The topics include:
 - [Computer Hacking - Cyber Laws Harvard](https://cyber.harvard.edu/sites/cyber.law.harvard.edu/files/ComputerHacking.pdf)
 - [Ethical Hacking Value and Penetration testing](https://www.certconf.org/presentations/2003/Wed/WM4.pdf)
 - [Secrets of Super and Professional Hackers](http://www.mediafire.com/download/2sspb36u5gymd23/Secrets+of+Super+and+Professional+Hackers.zip)
+- [Network Hacking and Shadows Hacking Attacks](http://www.mediafire.com/download/utp50jqd25ngw3q/Network_Hacking_and_Shadows_Hacking_Attacks.zip)

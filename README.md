@@ -159,6 +159,7 @@ The topics include:
   - [Web Scraping with Python - Collecting Data from the Modern Web](http://it-ebooks.info/book/6035/)
 - **SQL**
   - [Dynamic SQL: Applications, Performance, and Security](http://it-ebooks.info/book/1463047545/)
+  - [Gray Hat Python: Python Programming for Hackers and Reverse Engineers](https://drive.google.com/open?id=1AG-Nm4sVdt3Oe23U8o4OcFMEh5M8Ou1V)
 
 
 ----------

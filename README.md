@@ -77,6 +77,8 @@ The topics include:
 ### Programming Languages
 - **Python**
   - [Violent Python : A Cookbook for Hackers (2013)](https://github.com/reconSF/python/blob/master/Syngress.Violent.Python.a.Cookbook.for.Hackers.2013.pdf)
+  - [Learn Python the Hard Way 3rd Edition (2014)]
+  (https://www.souravsengupta.com/cds2015/python/LPTHW.pdf)
 
 ----------
 
